@@ -1,5 +1,5 @@
 # otp-verification-using-python
-Here's a sample README file you can use for your OTP verification system in Python:
+
 
 ---
 
